@@ -1,4 +1,3 @@
-```markdown
 # LTC MWEB Pay 🚀
 
 > **Accept Litecoin with full privacy via MWEB. No processing fees. No intermediaries.**
@@ -33,7 +32,7 @@ You will need a Linux server (Ubuntu/Debian) with Docker & Docker Compose instal
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tvoj-nick/ltc-mweb-pay.git
+git clone https://github.com/vic-che/ltc-mweb-pay.git
 cd ltc-mweb-pay
 ```
 
@@ -55,6 +54,7 @@ docker-compose up -d
 ```
 
 The first launch may take some time as the Litecoin node needs to synchronize the blockchain. You can monitor the status via logs:
+
 ```bash
 docker-compose logs -f processor
 ```
