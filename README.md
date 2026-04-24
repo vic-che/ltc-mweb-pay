@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Litecoin](https://img.shields.io/badge/Crypto-Litecoin-345D9D.svg)](https://litecoin.org/)
-[![MWEB](https://img.shields.io/badge/Feature-MWEB-8A2BE2.svg)](https://litecoin.com/mweb)
+[![MWEB](https://img.shields.io/badge/Feature-MWEB-8A2BE2.svg)](https://litecoin.com/)
 
 ## What is it?
 
